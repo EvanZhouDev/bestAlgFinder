@@ -9,6 +9,9 @@ Source: https://github.com/trangium/trangium.github.io/blob/master/algSpeed.js
 ### AlgDB.net
 Website: http://algdb.net
 
+## Background
+On the Rubik's cube, there are thousands of cases that you can run into in specific steps. Each one of these cases has dozens of recognized algorithms. This program can help you pick out the best algorithm(s) for a specific case.
+
 ## Installation instructions:
 <details>
 <summary>TL;DR</summary>
