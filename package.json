@@ -1,0 +1,16 @@
+{
+  "name": "bestalgfinder",
+  "version": "1.0.0",
+  "description": "A algDB scraper that finds the best algorithm per category",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "puppeteer": "^19.4.0",
+    "puppeteer-core": "^19.4.0"
+  }
+}
